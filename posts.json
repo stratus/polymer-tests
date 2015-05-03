@@ -1,0 +1,16 @@
+[
+  {
+    "uid": 1,
+    "name": "Foo",
+    "description": "lorem ipsum",
+    "avatar": "https://s.gravatar.com/avatar/45fd1528c50d9b04ade9023ec81ed95c?s=80",
+    "favorite": true
+  },
+  {
+    "uid": 2,
+    "name": "Bar",
+    "description": "ipsum lorem",
+    "avatar": "https://s.gravatar.com/avatar/45fd1528c50d9b04ade9023ec81ed95c?s=80",
+    "favorite": false
+  }
+]
